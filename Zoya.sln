@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoya", "Zoya\Zoya.csproj", "{89BFCB62-5957-43FE-A856-6C8B7BA05157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BFCB62-5957-43FE-A856-6C8B7BA05157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BFCB62-5957-43FE-A856-6C8B7BA05157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BFCB62-5957-43FE-A856-6C8B7BA05157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BFCB62-5957-43FE-A856-6C8B7BA05157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD04A3F4-FB2B-4659-B486-373E641D3420}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\Zoya.exe.config
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\Zoya.exe
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\Zoya.pdb
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\EntityFramework.dll
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\EntityFramework.xml
+C:\Users\adami\source\repos\Zoya\Zoya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.csprojAssemblyReference.cache
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.csproj.CopyComplete
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.exe
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.pdb
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.Shop.resources
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.csproj.GenerateResource.cache
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.NewCourier.resources
+C:\Users\adami\source\repos\Zoya\Zoya\obj\Debug\Zoya.NewStock.resources
